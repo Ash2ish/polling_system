@@ -16,12 +16,8 @@
     "System",
     "Options"
   ],
-  "author": "Prashant Singh",
+  "author": "Ashish",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/prashantsingh896/Polling-System-API/issues"
-  },
-  "homepage": "https://github.com/prashantsingh896/Polling-System-API#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "dotenv": "^16.0.3",
